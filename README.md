@@ -1,5 +1,5 @@
 # Blackjack-21
-Play blackjack against a computer!
+Play blackjack against a computer! This was my very first introduction to C++, and I thought blackjack would be a fun game to learn the langauge with.
 
 <h2>
 Installation
@@ -25,3 +25,8 @@ To start the game, each player draws two cards. The player can see both of thier
 <li> Dealer hits, and gets a king, total is 22.</li>
 <li> Player 1 wins!</li>
 </ul>
+
+# What I learned
+- A lot of C++ syntax, and how to do the basics of the language.
+- About pass by reference and memory manipulation.
+- Common data structures that are used in C++ like vectors and how to use them.
