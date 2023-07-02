@@ -1,5 +1,5 @@
 # Blackjack-21
-Play blackjack against a computer! This was my very first introduction to C++, and I thought blackjack would be a fun game to learn the langauge with.
+Play blackjack against a computer! This was my very first introduction to C++, and I thought blackjack would be a fun game to learn the language with.
 
 <h2>
 Installation
